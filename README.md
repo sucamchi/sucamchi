@@ -1,16 +1,23 @@
-## Hi there 👋
+# Susana Camlett Chica
 
-<!--
-**sucamchi-lab/sucamchi-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student developer based in **Málaga, Spain**. I build small apps and tools to practice and ship ideas—mostly around **automation**, **productivity**, **backend**, **cybersecurity**, and **AI/ML**.
 
-Here are some ideas to get you started:
+## What I’m focused on
+- Building practical projects to learn by doing
+- Scripting & automation (making computers do the boring parts)
+- Backend fundamentals and APIs
+- Learning security concepts and safe coding
+- Exploring AI/ML workflows and how to apply them in real apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I’m using
+- **Python** (apps, automation, AI/ML experiments)
+- **Go** (backend services, CLIs)
+- **C** (systems fundamentals)
+- **VS Code** (daily driver)
+
+## Contact
+- Email: **sucamchi@gmail.com**
+
+---
+
+> Always learning. Always improving.
