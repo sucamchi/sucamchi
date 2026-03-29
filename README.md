@@ -14,11 +14,6 @@ I'm a big believer in continuous learning. Currently, I'm:
 * 🎓 **Student at 42 Málaga** (Deep diving into C and Systems Programming)
 * 💻 Following the **Boot.dev** backend path for **Python** and **GoLang**
 
- ### 🛠 My Favorite Projects
-I'm currently putting most of my energy into these:
-* **[Kanji Quiz](https://github.com/sucamchi-lab/kanji-test)** - An interactive CLI tool for mastering Japanese characters.
-* **[Time Blocker](https://github.com/sucamchi-lab/time-block-organizer)** - A productivity app designed to help focus and manage daily tasks.
-* **[Personal Finance Tracker](https://github.com/sucamchi-lab/personal-finance-tracker)** - A clean dashboard to manage and visualize personal expenses.
 
 ## Tech I’m using
 - **Python** (apps, automation, AI/ML experiments)
