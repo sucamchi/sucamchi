@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Susana%20Camlett%20Chica&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%7C%2042%20Málaga%20%7C%20Builder%20of%20things&descAlignY=60&descColor=a78bfa" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!;Student+%40+42+Málaga;Python+%7C+Go+%7C+C+developer;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br/>
 
