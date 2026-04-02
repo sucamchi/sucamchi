@@ -20,7 +20,7 @@ class Susana:
     name       = "Susana Camlett Chica"
     location   = "Málaga, Spain"
     school     = "42 Málaga"
-    languages  = ["English", "Spanish", "Japanese (learning)", "French", "German"]
+    languages  = ["Python", "C", "Go", "Bash"]
     interests  = ["Automation", "Backend", "Cybersecurity", "AI/ML", "Open Source"]
     currently  = "Deep-diving into C and Systems Programming"
     fun_fact   = "I make computers do the boring parts so I don't have to"
