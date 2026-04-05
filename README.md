@@ -34,11 +34,11 @@ class Susana:
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,go,c,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,go,c,sql,&theme=dark" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,powerbi&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash,powerbi,&theme=dark" />
 
 **Other**
 
