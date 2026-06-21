@@ -22,8 +22,8 @@ class Susana:
     school     = "42 Málaga"
     languages  = ["English", "Spanish", "Japanese (learning)", "French", "German"]
     tech_stack  = ["Python", "C", "Go", "Bash"]
-    interests  = ["Scripting", "Automation", "Backend", "Cybersecurity", "AI/ML", "Open Source"]
-    currently  = "Deep-diving into C and Systems Programming"
+    interests  = ["Scripting", "Automation", "Backend", "Cybersecurity", "Open Source"]
+    currently  = "Deep-diving into Python, C and Systems Programming"
     fun_fact   = "I make computers do the boring parts so I don't have to"
 ```
 
