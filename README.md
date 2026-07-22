@@ -41,7 +41,7 @@ class Susana:
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bash&theme=dark" />
 
-**Other**
+**Other interests**
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 &nbsp;
@@ -55,10 +55,10 @@ class Susana:
 
 ## What I'm working on
 
-- **42 Málaga** — grinding through C and systems programming
-- **Boot.dev** — backend path with Python and Go
-- Learning security concepts and safe coding practices
-- Exploring AI/ML workflows and how to use them in real projects
+- **42 Málaga** — grinding through C, systems programming and Python though various projects.
+- **Boot.dev** — backend path with Python and Go.
+- Learning cybersecurity concepts and safe coding practices.
+- Exploring AI workflows and how to use them in real projects.
 
 ---
 
