@@ -55,7 +55,7 @@ class Susana:
 
 ## What I'm working on
 
-- **42 Málaga** — grinding through C, systems programming and Python though various projects.
+- **42 Málaga** — grinding through C, systems programming and Python through various projects.
 - **Boot.dev** — backend path with Python and Go.
 - Learning cybersecurity concepts and safe coding practices.
 - Exploring AI workflows and how to use them in real projects.
