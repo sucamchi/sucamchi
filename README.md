@@ -21,8 +21,8 @@ class Susana:
     location   = "Málaga, Spain"
     school     = "42 Málaga"
     languages  = ["Python", "C", "Go", "Bash"]
-    interests  = ["Scripting", "Automation", "Backend", "Cybersecurity", "Open Source"]
-    currently  = "Deep-diving into Python, C and Systems Programming"
+    interests  = ["Scripting", "Automation", "Backend", "Cybersecurity"]
+    currently  = "Deep-diving into Python, C and Systems Programming @ 42 Málaga"
     fun_fact   = "I make computers do the boring parts so I don't have to"
 ```
 
@@ -57,7 +57,6 @@ class Susana:
 - **42 Málaga** — grinding through C, systems programming and Python through various projects.
 - **Boot.dev** — backend path with Python and Go.
 - Learning cybersecurity concepts and safe coding practices.
-- Exploring AI workflows and how to use them in real projects.
 
 ---
 
