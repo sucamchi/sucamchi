@@ -83,10 +83,6 @@ class Susana:
 <a href="mailto:sucamchi@gmail.com">
   <img src="https://img.shields.io/badge/Email-sucamchi%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
-<a href="https://github.com/sucamchi">
-  <img src="https://img.shields.io/badge/GitHub-sucamchi-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
