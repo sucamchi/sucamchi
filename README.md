@@ -5,9 +5,9 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sucamchi-lab&style=for-the-badge&color=7c3aed" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sucamchi&style=for-the-badge&color=7c3aed" alt="Profile Views"/>
 &nbsp;
-<a href="https://github.com/sucamchi-lab?tab=followers"><img src="https://img.shields.io/github/followers/sucamchi-lab?style=for-the-badge&color=7c3aed&labelColor=1a1a2e" /></a>
+<a href="https://github.com/sucamchi?tab=followers"><img src="https://img.shields.io/github/followers/sucamchi?style=for-the-badge&color=7c3aed&labelColor=1a1a2e" /></a>
 
 </div>
 
@@ -84,7 +84,7 @@ class Susana:
   <img src="https://img.shields.io/badge/Email-sucamchi%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/sucamchi-lab">
+<a href="https://github.com/sucamchi">
   <img src="https://img.shields.io/badge/GitHub-sucamchi--lab-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
