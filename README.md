@@ -85,7 +85,7 @@ class Susana:
 </a>
 &nbsp;
 <a href="https://github.com/sucamchi">
-  <img src="https://img.shields.io/badge/GitHub-sucamchi--lab-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-sucamchi-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
