@@ -5,13 +5,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sucamchi&style=for-the-badge&color=7c3aed" alt="Profile Views"/>
-&nbsp;
-<a href="https://github.com/sucamchi?tab=followers"><img src="https://img.shields.io/github/followers/sucamchi?style=for-the-badge&color=7c3aed&labelColor=1a1a2e" /></a>
-
-</div>
-
----
 
 ## About Me
 
