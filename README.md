@@ -7,8 +7,7 @@
 
 </div>
 
-
-## About Me
+## About
 
 ```python
 class Susana:
